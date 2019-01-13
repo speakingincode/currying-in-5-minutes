@@ -1,0 +1,22 @@
+{
+  "name": "currying-in-5-minutes",
+  "version": "1.0.0",
+  "description": "Currying Code Examples",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Speaking in Code",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^23.3.12",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.5",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "install": "^0.12.2",
+    "ramda": "^0.26.1"
+  }
+}
